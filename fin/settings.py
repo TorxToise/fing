@@ -27,10 +27,11 @@ SECRET_KEY = "django-insecure-kyu-+%=7q5ps(u*-uy3$_zs1nk+w^*u%_j@!8iw$!r5z^84ppb
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "fing-1-kxwr.onrender.com",  # Add your Render domain
-    "localhost",  # Local development
-    "127.0.0.1"   # Local development
+    "FingAI.onrender.com",  # Replace 'your-app-name' with your actual Render app name
+    "localhost",  # For local development
+    "127.0.0.1"   # For local development
 ]
+
 
 
 
